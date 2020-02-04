@@ -1,9 +1,9 @@
 def new_hash
-new_hash = {}
+newest_hash = hash.new
 end
 
 def actor
-
+actor: 
 end
 
 def monopoly
