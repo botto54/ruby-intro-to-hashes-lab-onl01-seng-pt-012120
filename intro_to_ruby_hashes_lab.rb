@@ -3,7 +3,7 @@ newest_hash = hash.new
 end
 
 def actor
-actor = {name: "Stone Cold Steve Austin"
+actor = {name: "Stone Cold Steve Austin"}
 end
 
 def monopoly
