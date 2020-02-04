@@ -1,9 +1,9 @@
 def new_hash
-newest_hash = hash.new
+newest_hash = Hash.new
 end
 
 def actor
-actor = {name: "Stone Cold Steve Austin"}
+actor = {name: "Dwayne The Rock Johnson"}
 end
 
 def monopoly
